@@ -1,7 +1,0 @@
-{
-  "validPets": [
-    {"id": 101, "name": "Zeus", "status": "available"},
-    {"id": 102, "name": "Toby", "status": "pending"}
-  ],
-  "invalidIds": ["abc", "-1", ""]
-}
